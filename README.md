@@ -51,7 +51,7 @@ Each assignment folder contains a detailed README providing specific information
     
     - MeMS is a custom memory management system that allows for efficient allocation and deallocation of memory using a doubly linked list data structure. It also provides the capability to map virtual memory to physical memory.
 
-  - Link to Repository: [Memory-Management-System](https://github.com/Vikranth3140/Memory-Management-System.git)
+  - Link to Repository: [Memory-Management-System](https://github.com/anushka-korlapati/MeMS.git)
 
 
 - *Assignment 4:*
@@ -79,5 +79,5 @@ To explore a specific assignment:
 
 ## Contributors
 
-- [Vikranth Udandarao](https://github.com/Vikranth3140/)
 - [Anushka Korlapati](https://github.com/anushka-korlapati/)
+- [Vikranth Udandarao](https://github.com/Vikranth3140/)
